@@ -1,4 +1,7 @@
 # SEGUR
+
+Egilea: Leire Garcia Corcuera
+
 Azterketak prestatzeko nire shell script-ak eta pyhton3 programak igoko ditut
 
 Gogoratu programak edozein makinean funtzionatu dezan exekutatzeko baimenak eman behar dizkiozula, 
